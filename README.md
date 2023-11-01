@@ -5,8 +5,8 @@
 - 📫 You can reach me at mocapitalt@gmail.com...
 
 
-Hello world! This repository contains many applications of the mql5 programming language.
-We will be making simple programs that will help traders to analyse and make informed decisions.
+Hello world! This repository contains applications of the mql5 programming language.
+We will be making simple programs that will help to analyse market movements. 
 We will try to make some simple Gui applications as well.
 <!---
 chaosengines-create/chaosengines-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
